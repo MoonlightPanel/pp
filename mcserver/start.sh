@@ -1,1 +1,1 @@
-java -jar mcserver/server.jar
+java -jar server.jar
